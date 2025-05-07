@@ -42,8 +42,8 @@ discord-gemini-bot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/discord-gemini-bot.git
-cd discord-gemini-bot
+git clone https://github.com/Khetesh-Deore/Discord-Bot.git
+cd discord-bot
 ````
 
 ### 2. Install Dependencies
@@ -150,5 +150,5 @@ This project is open-sourced for learning and personal use.
 
 PRs are welcome! Feel free to suggest improvements or new features.
 
-```
+
 
